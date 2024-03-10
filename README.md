@@ -1,4 +1,4 @@
-![Cover Image](https://www.dropbox.com/scl/fi/b2n4vc5cgi2ylp5z13d3z/profil-github.png?raw=1)
+![Cover Image]("G:\My Drive\github\cover-github.jpg")
 # Sk Shamim Aktar
 
 ## Professional Summary
@@ -65,6 +65,6 @@ Passionate about leveraging machine learning and data science to solve real-worl
 
 ### Contact & More
 
-- [LinkedIn](https://linkedin.com/in/yourprofile) 
+- [LinkedIn](www.linkedin.com/in/sk-shamim02) 
 - [GitHub](https://github.com/Skshamim02)
 - Email: skshamimaktar@gmail.com
