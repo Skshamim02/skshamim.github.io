@@ -15,7 +15,7 @@ Passionate about leveraging machine learning and data science to solve real-worl
   - Oct. 2021 – Jun. 2025
   - CGPA: 9.01/10
 
-### Technical Skills
+### Technical Skills 
 
 - **Languages**: Python, C, C++, HTML/CSS, JavaScript, SQL
 - **Developer Tools**: VS Code, Eclipse, AutoCAD, Google Colaboratory, Canva, Overleaf, Anaconda Navigator
