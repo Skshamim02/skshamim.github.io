@@ -1,5 +1,4 @@
-![Cover Image]("G:\My Drive\github\cover-github.jpg")
-# Sk Shamim Aktar
+![Cover Image](https://drive.google.com/uc?export=view&id=1-KO6bdp_T6_FWFO24WzZ0lnhCGRAvsHR)
 
 ## Professional Summary
 
