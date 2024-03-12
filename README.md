@@ -1,4 +1,4 @@
-![Cover Image](https://drive.google.com/uc?export=view&id=1shfwgAVYAWv6HHZ975QAjszbxmu2hcJW)
+
 
 
 ## Professional Summary
